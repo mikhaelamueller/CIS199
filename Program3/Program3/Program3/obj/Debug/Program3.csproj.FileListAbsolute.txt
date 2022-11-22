@@ -1,0 +1,10 @@
+J:\CIS 199\Program3\Program3\bin\Debug\Program3.exe.config
+J:\CIS 199\Program3\Program3\bin\Debug\Program3.exe
+J:\CIS 199\Program3\Program3\bin\Debug\Program3.pdb
+J:\CIS 199\Program3\Program3\obj\Debug\Program3.csprojAssemblyReference.cache
+J:\CIS 199\Program3\Program3\obj\Debug\Program3.Form1.resources
+J:\CIS 199\Program3\Program3\obj\Debug\Program3.Properties.Resources.resources
+J:\CIS 199\Program3\Program3\obj\Debug\Program3.csproj.GenerateResource.cache
+J:\CIS 199\Program3\Program3\obj\Debug\Program3.csproj.CoreCompileInputs.cache
+J:\CIS 199\Program3\Program3\obj\Debug\Program3.exe
+J:\CIS 199\Program3\Program3\obj\Debug\Program3.pdb

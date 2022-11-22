@@ -1,0 +1,10 @@
+J:\CIS 199\Program 2\Program 2\obj\Debug\Program 2.csprojAssemblyReference.cache
+J:\CIS 199\Program 2\Program 2\obj\Debug\Program_2.Properties.Resources.resources
+J:\CIS 199\Program 2\Program 2\obj\Debug\Program 2.csproj.GenerateResource.cache
+J:\CIS 199\Program 2\Program 2\obj\Debug\Program 2.csproj.CoreCompileInputs.cache
+J:\CIS 199\Program 2\Program 2\bin\Debug\Program 2.exe.config
+J:\CIS 199\Program 2\Program 2\bin\Debug\Program 2.exe
+J:\CIS 199\Program 2\Program 2\bin\Debug\Program 2.pdb
+J:\CIS 199\Program 2\Program 2\obj\Debug\Program 2.exe
+J:\CIS 199\Program 2\Program 2\obj\Debug\Program 2.pdb
+J:\CIS 199\Program 2\Program 2\obj\Debug\select_best_option.Form1.resources
